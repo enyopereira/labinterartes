@@ -1,10 +1,10 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: darkorange;
+    background-color: darkgree;
 }
 header {
     height: 120px;
-    background-color: blueviolet;
+    background-color: black;
 }
 header h1 {
     font-size: 2em;
